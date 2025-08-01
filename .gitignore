@@ -1,0 +1,42 @@
+# Byte-compiled files
+*.py[cod]
+__pycache__/
+*.so
+
+# Distribution / Packaging
+.Python
+env/
+venv/
+ENV/
+*.egg-info/
+build/
+dist/
+
+# Editor / IDE files
+.vscode/
+.idea/
+*.swp
+*.bak
+*.swo
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Testing
+.coverage
+.tox/
+.cache/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Pytest cache
+.pytest_cache/
+
+# Virtual environment
+*.venv/
